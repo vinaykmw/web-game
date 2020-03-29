@@ -1,0 +1,13 @@
+{
+"companyName": "worklinkr",
+"productName": "MasterGame - Copy",
+"dataUrl": "web build memory code.data.unityweb",
+"wasmCodeUrl": "web build memory code.wasm.code.unityweb",
+"wasmFrameworkUrl": "web build memory code.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
